@@ -1,0 +1,29 @@
+# Maven target directory
+target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+natives/
+
+# OS files
+.DS_Store
+Thumbs.db
